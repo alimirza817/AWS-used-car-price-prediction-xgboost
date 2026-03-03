@@ -138,11 +138,12 @@ The IAM role allows:
 
 | Metric          | Value   |
 | --------------- | ------- |
-| Training RMSE   | $9,681  |
-| Validation RMSE | $18,887 |
-| Training Time   | 135 sec |
+| Training RMSE   | $5,060  |
+| Validation RMSE | $7,889 |
+| Training Time   | 140 sec |
 
-<img width="1365" height="637" alt="Screenshot 2026-02-26 004859" src="https://github.com/user-attachments/assets/2e8babab-7af3-4059-8a60-4ace1c2aafba" />
+<img width="1198" height="483" alt="image" src="https://github.com/user-attachments/assets/a60dbac8-3625-482a-a44b-5489716111b7" />
+
 
 ## 📦 Step 5: Model Saved to S3
 ### Output:
